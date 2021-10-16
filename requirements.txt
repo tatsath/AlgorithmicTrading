@@ -1,0 +1,57 @@
+##### Core packages
+jupyter==1.0.0
+matplotlib==3.0.3
+numpy==1.16.2
+pandas==0.24.2
+scipy==1.2.1
+
+##### Machine Learning packages
+scikit-learn==0.22.2
+Keras==2.2.4
+tensorflow==1.13.1
+tensorboard==1.13.1
+# If you have a TF-compatible GPU and you want to enable GPU support, then
+# replace tensorflow with tensorflow-gpu.
+
+##### Statistics packages
+statsmodels==0.9.0
+
+##### Data Download packages
+pandas-datareader==0.7.0
+Quandl==3.4.8
+xlrd==1.2.0
+yfinance==0.1.50
+
+##### Additional Visualization packages
+plotly==3.10.0
+seaborn==0.9.0
+
+#The following additional packages are also used in the case studies. 
+#However, the following packages are commented as the installation is time taking and they will be installed from the jupyter notebook of the case studies. 
+#Uncomment these in case you want to install them from the requirement.txt file
+
+##### NLP packages - used in chapter 10
+#textblob==0.15.3
+#spacy==2.1.9
+#nltk==3.4
+#en-core-web-lg==2.1.0
+#en-core-web-sm==2.1.0
+#ChatterBot==1.0.5
+#chatterbot-corpus==1.2.0
+
+##### Additional NLP Packages - used in examples/case studies in chapter 10
+
+#openpyxl==2.6.1
+#pyLDAvis==2.1.2
+#pdfminer==20191125
+#wordcloud==1.6.0
+#gensim==3.8.2
+#PyYAML==5.1
+
+
+# Additional utilities used for robo-advisor case study in chapter 5
+#dash==1.9.1
+#dash-core-components==1.8.1
+#dash-daq==0.4.0
+#cvxopt==1.2.0
+
