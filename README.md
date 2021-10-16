@@ -12,5 +12,4 @@ Use any of the following services.
 * Open this repository in [Colaboratory](https://colab.research.google.com/github/tatsath/AlgorithmicTrading/blob/main):
 <a href="https://colab.research.google.com/github/tatsath/AlgorithmicTrading/blob/main"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
 
-  * _Note_: Google colab supports GPU and can be quite fast. However, the linkages to data file located in the folders of the git directory may not work. Upload the data files seperately while running the jupyter notebooks on google colab. For loading the data files on google colab, you can replace the local directory path with the github path. For example, for the data of case study 1 of chapter 7 _dataset = read_csv('Dow_adjcloses.csv')_ in the code can be replace with _dataset = read_csv('https://raw.githubusercontent.com/tatsath/fin-ml/master/Chapter%207%20-%20Unsup.%20Learning%20-%20Dimensionality%20Reduction/CaseStudy1%20-%20Portfolio%20Management%20-%20Eigen%20Portfolio/Dow_adjcloses.csv')_ for it to work on google colab.  
-
+  * _Note_: Google colab supports GPU and can be quite fast. However, the linkages to data file located in the folders of the git directory may not work. 
